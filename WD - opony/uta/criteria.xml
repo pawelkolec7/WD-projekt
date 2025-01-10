@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.decision-deck.org/2019/XMCDA-3.1.1 http://www.decision-deck.org/xmcda/_downloads/XMCDA-3.1.1.xsd">
+  <criteria>
+    <criterion id="Cena" name="Cena">
+      <active>true</active>
+    </criterion>
+    <criterion id="Waga" name="Waga">
+      <active>true</active>
+    </criterion>
+    <criterion id="Indeks prędkości" name="Indeks prędkości">
+      <active>true</active>
+    </criterion>
+    <criterion id="Indeks ładowności" name="Indeks ładowności">
+      <active>true</active>
+    </criterion>
+    <criterion id="Głębokość bieżnika" name="Głębokość bieżnika">
+      <active>true</active>
+    </criterion>
+    <criterion id="Gwarancja" name="Gwarancja">
+      <active>true</active>
+    </criterion>
+    <criterion id="Ocena użytkowników" name="Ocena użytkowników">
+      <active>true</active>
+    </criterion>
+  </criteria>
+</xmcda:XMCDA>

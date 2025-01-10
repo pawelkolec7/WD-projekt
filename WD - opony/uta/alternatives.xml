@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.decision-deck.org/2019/XMCDA-3.1.1 http://www.decision-deck.org/xmcda/_downloads/XMCDA-3.1.1.xsd">
+  <alternatives>
+    <alternative id="Michelin Energy Saver+" name="Michelin Energy Saver+">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Continental EcoContact 6" name="Continental EcoContact 6">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Bridgestone Turanza T005" name="Bridgestone Turanza T005">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Pirelli Cinturato P7" name="Pirelli Cinturato P7">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Hankook Kinergy Eco2" name="Hankook Kinergy Eco2">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Vredestein Sportrac 5" name="Vredestein Sportrac 5">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Kumho Ecsta HS51" name="Kumho Ecsta HS51">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Nokian zLine" name="Nokian zLine">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Toyo Proxes CF2" name="Toyo Proxes CF2">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Kleber Dynaxer UHP" name="Kleber Dynaxer UHP">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Riken Raptor" name="Riken Raptor">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Sava Intensa UHP" name="Sava Intensa UHP">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Falken Ziex ZE914" name="Falken Ziex ZE914">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Yokohama ADVAN Sport V105" name="Yokohama ADVAN Sport V105">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tigar High Performance" name="Tigar High Performance">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+  </alternatives>
+</xmcda:XMCDA>
